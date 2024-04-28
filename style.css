@@ -42,7 +42,6 @@ a, p {
     display: flex;
     padding: 100px;
     justify-content: center;
-    gap: 16px;
 }
 
 .home-text, .image {
@@ -52,11 +51,11 @@ a, p {
 .image {
     background-color: #747576;
     text-align: center;
-    justify-content: center;
 }
 
 p, h1 { 
     margin: 0px;
+    width: 450px;
 }
 
 h1 {
