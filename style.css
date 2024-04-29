@@ -170,3 +170,12 @@ button {
 .subtext {
     color: #e5e7eb;
 }
+
+/*footer section*/
+.footer {
+    background-color: #1F2937;
+    color: #f9faf8;
+    text-align: center;
+    padding: 50px;
+    font-size: 18px;
+}
