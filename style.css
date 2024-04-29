@@ -66,11 +66,12 @@ h1 {
 
 button {
     background-color: #3882f6;
-    padding: 8px 24px;
+    padding: 8px 34px;
     border-radius: 8px;
     margin-top: 8px;
     color: white;
     font-weight: bold;
+    border: 2px solid white;
 }
 
 /*information section*/
@@ -141,4 +142,31 @@ button {
 
 .quote, .author {
     width: 800px;
+}
+
+/*call to action section*/
+
+.call-to-action {
+    padding: 100px 250px;
+}
+
+.cta-container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882f6;
+    padding: 50px 100px;
+    border-radius: 8px;
+}
+
+.cta-text {
+    font-size: 18px;
+    color: #f9faf8;
+}
+
+.title {
+    font-weight: bolder;
+}
+
+.subtext {
+    color: #e5e7eb;
 }
